@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\toxam\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\toxam\\.nuget\\packages"
+    ]
+  }
+}
